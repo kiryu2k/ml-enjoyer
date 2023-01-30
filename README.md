@@ -1,2 +1,1 @@
-# ml-enjoyer
-переобучаемся 😼✌
+![alt text](meme.jpg "funny meme")
